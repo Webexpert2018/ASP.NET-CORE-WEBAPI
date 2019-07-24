@@ -1,0 +1,12 @@
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netstandard2.0\VenueService.deps.json
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netstandard2.0\VenueService.dll
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netstandard2.0\VenueService.pdb
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netstandard2.0\VenueService.Abstractions.dll
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netstandard2.0\VenueService.Abstractions.pdb
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.csprojAssemblyReference.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.csproj.CoreCompileInputs.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.AssemblyInfoInputs.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.AssemblyInfo.cs
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.csproj.CopyComplete
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.dll
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netstandard2.0\VenueService.pdb

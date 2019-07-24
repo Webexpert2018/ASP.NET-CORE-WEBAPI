@@ -1,0 +1,6 @@
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netcoreapp2.1\VenueService.deps.json
+H:\Sample-Project\VenueService\VenueService\bin\Debug\netcoreapp2.1\VenueService.dll
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netcoreapp2.1\VenueService.csprojAssemblyReference.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netcoreapp2.1\VenueService.csproj.CoreCompileInputs.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netcoreapp2.1\VenueService.AssemblyInfoInputs.cache
+H:\Sample-Project\VenueService\VenueService\obj\Debug\netcoreapp2.1\VenueService.AssemblyInfo.cs
